@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PushNotifApp</string>
+    <string name="action_send_email">Send Email</string>
+    <string name="action_send_to_many">Send To Many</string>
+</resources>
